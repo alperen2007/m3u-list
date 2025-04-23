@@ -19,3 +19,8 @@ https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 # KiKA
 #EXTINF:-1 tvg-id="kika.de" tvg-name="KiKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KiKA_Logo_2012.svg" group-title="Deutschland",KiKA
 https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+
+# random
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ZDF_logo.svg" group-title="Deutschland",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
